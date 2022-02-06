@@ -1,12 +1,9 @@
 # git-merge-conflict
 For Lab 3 Part 3, repository to create a purposeful merge conflict.
-<<<<<<< HEAD
-Ana's doin it
 
--Edited again #part 3 step 12
-=======
+Project Team Members: Laura Turner, Alisha, Caleb, Ana 
 Editted message on main for merge conflict
 
->>>>>>> main
+A way to help students organize and better prepare for the semester as well as manage their time. 
+Our project is going to be a student desk manager that will have various components that would be useful for students. It will have items such as a calendar, a link to the (previously set) school homepage, study manager, etc. 
 
-Our project is going to be making a student desk in the website.
