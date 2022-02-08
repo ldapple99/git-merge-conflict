@@ -1,7 +1,7 @@
 # git-merge-conflict
 For Lab 3 Part 3, repository to create a purposeful merge conflict.
 
-Project Team Members: Laura Turner, Alisha, Caleb, Ana 
+Project Team Members: Laura Turner, Alisha, Caleb, Ana, Troy Arthur
 Editted message on main for merge conflict
 
 A way to help students organize and better prepare for the semester as well as manage their time. 
